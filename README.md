@@ -1,7 +1,7 @@
 ### Welcome, internet person 👋
 
-- 🏫 I'm a CS undergrad @ [Heriot-Watt University](https://hw.ac.uk)
-- ℹ️ I also volunteer (mentor & mentor rep) @ [Prewired](https://github.com/prewired)
+- ℹ️ Data & Computing Manager @ [Prewired](https://github.com/prewired)
+- 🏫 BSc. Computer Science Hons. graduate from [Heriot-Watt University](https://hw.ac.uk) (1st)
 - 🌐 Website:  [hutchie.scot](https://hutchie.scot)
 - ✉️ Email:    [hutch@hutchie.scot](mailto:hutch@hutchie.scot)
 - 🌈 Pronouns: they/them
