@@ -2,15 +2,14 @@
 
 ### What I do
 
-- ℹ️ Data & Computing Manager @ [Prewired](https://github.com/prewired)
-- 
+- 👔 Data & Computing Manager @ [Prewired](https://github.com/prewired)
 
 ### About me
 
 - 🏫 BSc. Computer Science graduate from [Heriot-Watt University](https://hw.ac.uk) (1st & Honours)
 - 📍 Based in Edinburgh, Scotland
 - 🌈 Pronouns: they/them
-- I like SysAdmin, DevOps and databases (but not exclusively.)
+- ℹ️ I like SysAdmin, DevOps and databases (but not exclusively.)
 
 ### Contact me
 
