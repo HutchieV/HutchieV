@@ -7,6 +7,7 @@
 ### About me
 
 - 🏫 BSc. Computer Science graduate from [Heriot-Watt University](https://hw.ac.uk) (1st & Honours)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Nationality: Scottish
 - 📍 Based in Edinburgh, Scotland
 - 🌈 Pronouns: they/them
 - ℹ️ I like SysAdmin, DevOps and databases (but not exclusively.)
