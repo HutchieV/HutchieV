@@ -1,11 +1,11 @@
 ## Welcome, internet person 👋
 
 - 👔 Data & Computing Manager @ [Prewired](https://github.com/prewired)
-- 🏫 BSc. Computer Science (H, 1st) graduate from [Heriot-Watt University](https://hw.ac.uk)
-- ℹ️ I like SysAdmin, DevOps and databases (but not exclusively.)
+- 🏫 BSc. Computer Science graduate from [Heriot-Watt University](https://hw.ac.uk)
+- ℹ️ I like sysadmin, devops and databases (but not exclusively.)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Nationality: Scottish
-- 📍 Based in Edinburgh, Scotland
 - 🌈 Pronouns: they/them
+- 📍 Based in: Edinburgh, Scotland
 
 ### Contact me
 
